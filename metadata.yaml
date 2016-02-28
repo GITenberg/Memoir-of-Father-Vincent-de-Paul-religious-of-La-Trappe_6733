@@ -1,0 +1,31 @@
+_repo: Memoir-of-Father-Vincent-de-Paul-religious-of-La-Trappe_6733
+creator:
+  author:
+    agent_name: Vincent de Paul, Father
+    aliases:
+    - Merle, James
+    - Merle, Jacques, père
+    birthdate: 1768
+    deathdate: 1853
+    gutenberg_agent_id: '2179'
+    url: http://www.gutenberg.org/2009/agents/2179
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trappists -- United States -- History -- 19th century'
+- !lcc 'BX'
+- !lcsh 'Indians of North America -- Nova Scotia'
+- !lcsh 'Nova Scotia -- History'
+- !lcsh 'Trappists -- Nova Scotia -- History -- 19th century'
+- !lcsh 'Missionaries -- Nova Scotia -- Biography'
+- !lcsh 'Catholic Church -- Missions -- Nova Scotia'
+- !lcsh 'Vincent de Paul, Father, 1768-1853'
+title: Memoir of Father Vincent de Paul; religious of La Trappe
+url: http://www.gutenberg.org/ebooks/6733
